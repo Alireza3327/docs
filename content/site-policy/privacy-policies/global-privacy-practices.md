@@ -1,4 +1,4 @@
----
+H h---
 title: Global Privacy Practices
 redirect_from:
   - /eu-safe-harbor
